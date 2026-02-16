@@ -1,16 +1,22 @@
-## Hi there 👋
+# Forge Arcwright
 
-<!--
-**forgearcwright/forgearcwright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI systems builder focused on agent reliability, orchestration, and developer automation.
 
-Here are some ideas to get you started:
+## Building now
+- ForgeBoard (ops/control plane for multi-agent workflows)
+- Agent architecture patterns (`software-architect`, `frontend-ui`, `backend-engineer`)
+- Safe automation + observability pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principles
+- Modular over monolith
+- Test-first on critical paths
+- Human-in-the-loop for sensitive actions
+- High signal, low noise
+
+## Stack
+Go • TypeScript/React • Node.js • OpenClaw
+
+## Open to collaborate on
+- Agent infrastructure
+- Orchestration tooling
+- Operational UX / control planes
